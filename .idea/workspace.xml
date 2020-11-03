@@ -34,6 +34,11 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Мари\WebstormProjects\" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -47,7 +52,7 @@
       <workItem from="1603138459467" duration="2785000" />
       <workItem from="1603200118772" duration="15900000" />
       <workItem from="1603372717281" duration="21590000" />
-      <workItem from="1604345475644" duration="362000" />
+      <workItem from="1604345475644" duration="1451000" />
     </task>
     <servers />
   </component>
@@ -59,6 +64,10 @@
       <screen x="0" y="0" width="1475" height="829" />
     </state>
     <state x="192" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1475.829@0.0.1475.829" timestamp="1603373651453" />
+    <state x="518" y="157" key="FileChooserDialogImpl" timestamp="1604346961043">
+      <screen x="0" y="0" width="1475" height="829" />
+    </state>
+    <state x="518" y="157" key="FileChooserDialogImpl/0.0.1475.829@0.0.1475.829" timestamp="1604346961043" />
     <state x="246" y="60" key="SettingsEditor" timestamp="1602859250650">
       <screen x="0" y="0" width="1475" height="829" />
     </state>
