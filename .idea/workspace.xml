@@ -1,76 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9720d0f9-2b82-4338-a158-d32e4535735e" name="Default Changelist" comment="" />
+    <list default="true" id="850bf747-6672-46d4-9cd2-72cd72e51339" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/huston.html" beforeDir="false" afterPath="$PROJECT_DIR$/huston.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="HTML File" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1ixnSm1dYuBNCgUVz1DP3UZ1RrE" />
+  <component name="ProjectId" id="1jnQ6nXzBaL7ToMrEvZmk6pNDLC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="HTML" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Мари\WebstormProjects\" />
-    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9720d0f9-2b82-4338-a158-d32e4535735e" name="Default Changelist" comment="" />
-      <created>1602858114515</created>
+      <changelist id="850bf747-6672-46d4-9cd2-72cd72e51339" name="Default Changelist" comment="" />
+      <created>1604437204237</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1602858114515</updated>
-      <workItem from="1602858115812" duration="900000" />
-      <workItem from="1602859139704" duration="1003000" />
-      <workItem from="1603138459467" duration="2785000" />
-      <workItem from="1603200118772" duration="15900000" />
-      <workItem from="1603372717281" duration="21590000" />
-      <workItem from="1604345475644" duration="1451000" />
+      <updated>1604437204237</updated>
+      <workItem from="1604437205950" duration="429000" />
+      <workItem from="1604437652611" duration="926000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="192" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603373651453">
-      <screen x="0" y="0" width="1475" height="829" />
-    </state>
-    <state x="192" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1475.829@0.0.1475.829" timestamp="1603373651453" />
-    <state x="518" y="157" key="FileChooserDialogImpl" timestamp="1604346961043">
-      <screen x="0" y="0" width="1475" height="829" />
-    </state>
-    <state x="518" y="157" key="FileChooserDialogImpl/0.0.1475.829@0.0.1475.829" timestamp="1604346961043" />
-    <state x="246" y="60" key="SettingsEditor" timestamp="1602859250650">
-      <screen x="0" y="0" width="1475" height="829" />
-    </state>
-    <state x="246" y="60" key="SettingsEditor/0.0.1475.829@0.0.1475.829" timestamp="1602859250650" />
   </component>
 </project>
